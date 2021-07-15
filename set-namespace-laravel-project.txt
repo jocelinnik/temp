@@ -1,0 +1,3 @@
+php artisan make:command AppName
+mudar o conteudo do arquivo app/console/AppName.php para o conteudo do arquivo AppName.php deste repositório
+php artisan app:name <NOME_DO_NAMESPACE>
